@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Flip</string>
+    <string name="textViewRows"> Rows: </string>
+    <string name="textViewColumns"> Columns: </string>
+    <string name="textViewMaxLoop"> Max Loop: </string>
+    <string name="buttonPlay"> Play! </string>
+    <string name="radioButtonColors"> Colors </string>
+    <string name="radioButtonNumbers"> Numbers </string>
+    <string name="checkBoxSound"> Sound </string>
+    <string name="checkBoxHaptic"> Haptic </string>
+</resources>
